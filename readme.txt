@@ -1,4 +1,4 @@
 To-do list web page.
-Tested with Selenium.
+Test with Selenium.
 
-Ubnbutu 25. Selenium 4.32.0
+Ubbutu 25. Selenium 4.32.0
